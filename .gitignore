@@ -1,0 +1,7 @@
+TheRiver-backend/dist
+TheRiver-backend/node_modules
+TheRiver-frontend/dist
+TheRiver-frontend/node_modules
+TheRiver-backend/.env
+*.env
+*.log
